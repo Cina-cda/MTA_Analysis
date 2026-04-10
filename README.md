@@ -15,23 +15,23 @@
 - 可视化对比柱状图及敏感性折线图
 
 ## 项目结构
-attribution_project/
-├── data/ # 原始数据目录（需自行放入CSV文件）
-│ ├── user_sessions.csv
-│ └── conversions.csv
-├── outputs/ # 运行后自动生成
-│ ├── attribution_analysis.xlsx # 所有结果汇总
-│ └── figures/ # 图表
-├── logs/ # 日志目录（自动创建）
-├── config.py # 配置文件（路径、参数）
-├── data_loader.py # 数据加载模块
-├── preprocessing.py # 预处理模块
-├── attribution_models.py # 归因模型实现
-├── advanced_analysis.py # 进阶分析
-├── visualization.py # 可视化模块
-├── main.py # 主程序入口
-├── requirements.txt # Python依赖
-└── README.md # 本文件
+###attribution_project/
+###├── data/ # 原始数据目录（需自行放入CSV文件）
+###│ ├── user_sessions.csv
+###│ └── conversions.csv
+###├── outputs/ # 运行后自动生成
+###│ ├── attribution_analysis.xlsx # 所有结果汇总
+###│ └── figures/ # 图表
+###├── logs/ # 日志目录（自动创建）
+###├── config.py # 配置文件（路径、参数）
+###├── data_loader.py # 数据加载模块
+###├── preprocessing.py # 预处理模块
+###├── attribution_models.py # 归因模型实现
+###├── advanced_analysis.py # 进阶分析
+###├── visualization.py # 可视化模块
+###├── main.py # 主程序入口
+###├── requirements.txt # Python依赖
+###└── README.md # 本文件
 
 
 ## 环境要求
