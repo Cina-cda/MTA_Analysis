@@ -35,7 +35,7 @@
 
 
 ## 环境要求
-- Python 3.8+
+- Python 3.12
 - 依赖包：pandas, numpy, matplotlib
 
 ## 快速开始
