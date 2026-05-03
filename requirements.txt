@@ -1,5 +1,4 @@
-python = 3.12.13
-pandas = 3.0.2
-numpy = 2.4.4
+pandas >= 3.0.0
+numpy >= 2.4.0
 matplotlib >= 3.5.0
 openpyxl >= 3.0.0 
